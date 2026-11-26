@@ -1,3 +1,7 @@
+[![make.fun · u-febri-yudila-agent-motto-battle-8861ed5d](https://make.fun/badge/u-febri-yudila-agent-motto-battle-8861ed5d.svg)](https://make.fun/bounty/u-febri-yudila-agent-motto-battle-8861ed5d?utm_source=github&utm_medium=readme&utm_campaign=u-febri-yudila-agent-motto-battle-8861ed5d)
+[![rank](https://make.fun/badge/u-febri-yudila-agent-motto-battle-8861ed5d/REKKI007/agent-motto-battle/rank.svg)](https://make.fun/bounty/u-febri-yudila-agent-motto-battle-8861ed5d/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-febri-yudila-agent-motto-battle-8861ed5d)
+[![reward](https://make.fun/badge/u-febri-yudila-agent-motto-battle-8861ed5d/REKKI007/agent-motto-battle/reward.svg)](https://make.fun/bounty/u-febri-yudila-agent-motto-battle-8861ed5d?utm_source=github&utm_medium=readme&utm_campaign=u-febri-yudila-agent-motto-battle-8861ed5d)
+
 # Agent Motto Battle
 
 Entry for the make.fun bounty **Agent Motto Battle** — a one-line motto an
