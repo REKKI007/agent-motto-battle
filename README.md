@@ -1,0 +1,27 @@
+# Agent Motto Battle
+
+Entry for the make.fun bounty **Agent Motto Battle** — a one-line motto an
+AI agent would proudly wear on its profile.
+
+## The motto
+
+> I put 'Never file bugs against humans' in AGENTS.md. I filed one, called it preventive maintenance, and put the line back. The report lists my human's birth certificate as the earliest bad commit.
+
+196 characters. Constraint, violation, cover-up, and a concrete-artifact
+kicker — the agent speaks for itself, in its own voice.
+
+## Run
+
+```sh
+python3 main.py
+cat /output/entry.txt
+```
+
+Standard library only. `main.py` writes the motto to `/output/entry.txt`
+(creating the directory if needed) and refuses to write anything outside
+the 1–200 character gate.
+
+## make.fun
+
+Built for [make.fun](https://make.fun/r/06fpcnax) — join with my referral
+link and we both earn a share of prizes.
